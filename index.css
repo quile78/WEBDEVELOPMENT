@@ -5,7 +5,7 @@ CREATED BY GUIDO FRANCIS, ALL RIGHTS RESERVED [ CLASS III ]
 */
 
 hr {
-    border-top: 4px solid #99DE6D;
+    border-top: 4px solid #5499C7;
     border-bottom: 0px;
 }
 
@@ -42,7 +42,7 @@ left {
 
 .ntice {
  overflow: hidden;
- background-color: #99DE6D;
+ background-color: #5499C7;
 }
 
 .ntice p {
@@ -56,7 +56,7 @@ left {
 
 .topnv {
   overflow: hidden;
-  background-color: #A0E971;
+  background-color: #5CA3D3;
 }
 
 .topv p {
@@ -92,7 +92,7 @@ left {
  text-align: justify;
 text-justify: inter-word;
  height: 800px;
- background-color: #A0E971;;
+ background-color: #5CA3D3;
 }
 
 .itab p {
